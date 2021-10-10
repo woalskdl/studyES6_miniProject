@@ -1,4 +1,4 @@
-import Blog from "./main";
+import Blog from "./main.js";
 
-console.log("start project by webpack");
 let myBlog = new Blog();
+console.log("start project by webpack");
